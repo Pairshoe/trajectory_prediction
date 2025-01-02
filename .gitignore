@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# C extensions
+*.c
+*.cpp
+*.h
+*.o
+
+# Virtual environment directories
+.env/
+.venv/
+env/
+venv/
+ENV/
+Pipfile.lock
+poetry.lock
+
+# Installed dependencies
+*.egg-info/
+*.eggs/
+dist/
+build/
+*.egg
+
+# Log files
+*.log
+*.out
+*.err
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model and training artifacts
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+models/
+checkpoints/
+
+# TensorBoard
+logs/
+events.out.tfevents.*
+
+# Datasets and large files
+data/
+*.csv
+*.tsv
+*.json
+*.npz
+*.pkl
+
+# Temporary files and directories
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE-specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python package manager
+*.pip
+*.piplock
