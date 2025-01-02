@@ -41,8 +41,6 @@ build/
 *.pth
 *.pt
 *.onnx
-models/
-checkpoints/
 
 # TensorBoard
 logs/
